@@ -1,0 +1,12 @@
+torch>=2.1
+transformers>=4.44,<5
+datasets>=2.20
+evaluate>=0.4
+seqeval>=1.2.2
+scikit-learn>=1.4
+pytorch-crf>=0.7.2
+accelerate>=0.33
+tensorboard>=2.14
+numpy
+tqdm
+pyyaml
