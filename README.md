@@ -49,6 +49,4 @@ Metrics are word-level span metrics (seqeval); `Entity Macro-F1` is the mean of 
 python extract.py --model-dir experiments/transformer_crf/model --text "A graph is a set of vertices and edges."
 ```
 
-## Licence
 
-Code: not chosen yet (add a LICENSE file before publishing). Data: see above.
